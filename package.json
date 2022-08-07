@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-custom-poimandres-theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A custom poimandres theme for insomnia",
   "main": "index.js",
   "keywords": [
