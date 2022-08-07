@@ -3,6 +3,11 @@
   "version": "0.0.1",
   "description": "A custom poimandres theme for insomnia",
   "main": "index.js",
+  "keywords": [
+    "insomnia",
+    "poimandres",
+    "theme"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/megancooper/insomnia-plugin-custom-poimandres-theme.git"

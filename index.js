@@ -24,7 +24,6 @@ module.exports.themes = [
       highlight: {
         default: "#506477",
       },
-
       styles: {
         appHeader: {
           foreground: {
