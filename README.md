@@ -1,5 +1,7 @@
-# insomnia-plugin-custom-poimandres-theme
-A custom poimandres theme for insomnia
+<h1 align="center">
+  Custom Poimandres for <a href="https://insomnia.rest">Insomnia</a>
+  <br>
+</h1>
 
 ![Theme Example](/assets/theme.png?raw=true "Theme Example")
 
