@@ -1,0 +1,31 @@
+{
+  "name": "insomnia-plugin-custom-poimandres-theme",
+  "version": "0.0.1",
+  "description": "A custom poimandres theme for insomnia",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megancooper/insomnia-plugin-custom-poimandres-theme.git"
+  },
+  "author": "Megan Cooper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/megancooper/insomnia-plugin-custom-poimandres-theme/issues"
+  },
+  "homepage": "https://github.com/megancooper/insomnia-plugin-custom-poimandres-theme#readme",
+  "insomnia": {
+    "name": "Poimandres Theme",
+    "displayName": "Poimandres Theme Plugin",
+    "description": "A custom poimandres theme for insomnia",
+    "publisher": {
+      "name": "Megan Cooper",
+      "url": "https://res.cloudinary.com/dbfgjzwih/image/upload/v1659070005/profile_picture.jpg"
+    }
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.7.1"
+  }
+}
