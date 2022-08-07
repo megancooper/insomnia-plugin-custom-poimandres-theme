@@ -20,5 +20,7 @@ Contributions are welcome! This theme is rough, and I chose a stopping point tha
 
 ## Install
 
-- Open **Preferences > Plugins** inside Insomnia and  search for `insomnia-plugin-custom-poimandres-theme` and click **Install Plugin**;
-- After that, go to **Themes** (also under preferences) and apply the **Custom Poimandres** theme.
+0. Open [Insomnia](https://insomnia.rest)
+1. Click the settings gear (top right) or head to **Preferences**
+2. Head to the **Plugins** tab, search for `insomnia-plugin-custom-poimandres-theme` and click **Install Plugin**
+3. Head to the **Themes** tab and apply the **Custom Poimandres** theme.
