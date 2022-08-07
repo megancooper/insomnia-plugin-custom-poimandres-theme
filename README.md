@@ -1,6 +1,8 @@
 # insomnia-plugin-custom-poimandres-theme
 A custom poimandres theme for insomnia
 
+![Theme Example](/insomnia-plugin-custom-poimandres-theme/assets/theme.png?raw=true "Theme Example")
+
 ## About
 
 This is a custom poimandres-ish theme for insomnia. I really like the vscode [poimandres](https://github.com/drcmda/poimandres-theme) and wanted a similar color scheme inside insomnia.
