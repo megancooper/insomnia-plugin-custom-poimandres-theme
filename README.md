@@ -1,7 +1,7 @@
 # insomnia-plugin-custom-poimandres-theme
 A custom poimandres theme for insomnia
 
-![Theme Example](/insomnia-plugin-custom-poimandres-theme/assets/theme.png?raw=true "Theme Example")
+![Theme Example](/assets/theme.png?raw=true "Theme Example")
 
 ## About
 
